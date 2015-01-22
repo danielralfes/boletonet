@@ -1,4 +1,4 @@
-Os seguintes bancos já foram implementados:"
+Os seguintes bancos já foram implementados:
 
 * Santander
 * Banco Itaú
