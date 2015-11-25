@@ -3,6 +3,7 @@ Links:
 * [Bancos Implementados](Bancos-Implementados)
 * [Bancos Homologados](Bancos-Homologados)
 * [Documentação](http://boletonet.codeplex.com/wikipage?title=Documenta%C3%A7%C3%A3o&referringTitle=Home)
+* [Tabela de tamanhos de campos para boletos](https://www.boletobancario.com/docs/banks.html)
 
 Caso queira participar do projeto, enviar idéias, sugestões e críticas, entre em contato.
 
