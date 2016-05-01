@@ -9,7 +9,7 @@ public void AjustaTamanhoFonte(double tamanhoFonteTextos = 10,
                                double tamanhoFonteRotulos = 9.8, 
                                double tamanhoFonteInstrucaoImpressao = 9)
 ```      
- O tamanho da fonte será renderizada em "px" em css. 
+ O tamanho da fonte será renderizada em "px" do css. 
 ``` css
 .t { font-size: 9.8px !important; }
 ```
