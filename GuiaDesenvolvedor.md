@@ -2,7 +2,7 @@
 
 - [[Ajustar o tamanho da fonte do boleto bancário|GuiaDesenvolvedor#ajustar-o-tamanho-da-fonte-do-boleto-banc%C3%A1rio]]
 - [[Ajustar a separação entre o símbolo da moeda e o valor|GuiaDesenvolvedor#ajustar-a-separa%C3%A7%C3%A3o-entre-o-s%C3%ADmbolo-da-moeda-e-o-valor]]
-- [[Mostrar o endereço do Cedente|GuiaDesenvolvedor@]]
+- [[Mostrar o endereço do Cedente|GuiaDesenvolvedor#mostrar-o-endere%C3%A7o-do-cedente]]
 
 ## Ajustar o tamanho da fonte do boleto bancário.
 
