@@ -46,6 +46,8 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do método **V
 
 [[https://github.com/BoletoNet/boletonet/blob/master/wiki/img/9207ef64-8de8-4fef-99fd-ef5ca3774316.png|alt=Ajustar separação entre o símbolo da moeda e o valor]]
 
+Obs.: O ajuste de serparação foi implementada na parte do Cedente e na parte Sacado o símbolo da moeda foi removido.
+
 ## Mostrar o endereço do Cedente
 
 Para mostrar o endereço do Cedente utilize a propriedade **MostrarEnderecoCedente** da classe **BoletoBancário**.
