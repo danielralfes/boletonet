@@ -71,6 +71,9 @@ MostrarEnderecoCedente  = true;
 Veja as imagens abaixo:
 
 1. Sem o endereço do Cedente
+
 [[https://github.com/BoletoNet/boletonet/blob/master/wiki/img/60665064-9f03-4ca9-a1de-43cedc88aa0c.PNG|alt=Sem o endereço do Cedente]]
+
 2. Com o endereço do Cedente
+
 [[https://github.com/BoletoNet/boletonet/blob/master/wiki/img/b7331994-6929-47c4-b7c1-57011e8d7794.PNG|alt=Com o endereço do Cedente]]
