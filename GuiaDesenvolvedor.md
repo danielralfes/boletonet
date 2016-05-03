@@ -28,7 +28,7 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **V
 Para ajustar o tamanho da fonte utilize o método **AjustaSeparacaoSimboloMoeda** da classe **BoletoBancário**.
 
 ``` C#   
-public void AjustaSeparacaoSimboloMoeda()
+AjustaSeparacaoSimboloMoeda()
 ``` 
 
 O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **Valida**.
