@@ -4,7 +4,7 @@ Links:
 * [Bancos Homologados](Bancos-Homologados)
 * [Documentação](http://boletonet.codeplex.com/wikipage?title=Documenta%C3%A7%C3%A3o&referringTitle=Home)
 * [Tabela de tamanhos de campos para boletos](https://www.boletobancario.com/docs/banks.html)
-* [Guia do Desenvolvedor](https://github.com/BoletoNet/boletonet/wiki/guiadesenvolvedor)
+* [Guia do Desenvolvedor](https://github.com/BoletoNet/boletonet/wiki/Guia-do-Desenvolvedor)
 
 Caso queira participar do projeto, enviar idéias, sugestões e críticas, entre em contato.
 
