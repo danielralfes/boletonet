@@ -14,7 +14,7 @@ AjustaTamanhoFonte(double tamanhoFonteTextos = 10,
 .t { font-size: 9.8px !important; }
 ```
 
-O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **Valida**.
+O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do método **Valida**.
 
 ``` C#
         boletoBancario.Boleto = b;
@@ -23,15 +23,15 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **V
         boletoBancario.AjustaTamanhoFonte(12, tamanhoFonteInstrucaoImpressao:14);
 ```
 
-## Ajustar a separação entre símbolo e o valor da moeda
+## Ajustar a separação entre o símbolo da moeda e o valor
 
-Para ajustar o tamanho da fonte utilize o método **AjustaSeparacaoSimboloMoeda** da classe **BoletoBancário**.
+Para ajustar a separação entre o símbolo da moeda e o valor **AjustaSeparacaoSimboloMoeda** da classe **BoletoBancário**.
 
 ``` C#   
 AjustaSeparacaoSimboloMoeda()
 ``` 
 
-O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **Valida**.
+O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do método **Valida**.
 
 ``` C#
         boletoBancario.Boleto = b;
@@ -39,3 +39,5 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **V
 
         boletoBancario.AjustaSeparacaoSimboloMoeda();
 ```
+
+[[https://github.com/BoletoNet/boletonet/blob/master/wiki/img/9207ef64-8de8-4fef-99fd-ef5ca3774316.png|alt=Ajustar separação entre o símbolo da moeda e o valor]]
