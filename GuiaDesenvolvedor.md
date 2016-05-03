@@ -5,9 +5,9 @@
 Para ajustar o tamanho da fonte utilize o método **AjustaTamanhoFonte** da classe **BoletoBancário**.
 
 ``` C#   
-public void AjustaTamanhoFonte(double tamanhoFonteTextos = 10, 
-                               double tamanhoFonteRotulos = 9.8, 
-                               double tamanhoFonteInstrucaoImpressao = 9)
+AjustaTamanhoFonte(double tamanhoFonteTextos = 10, 
+                   double tamanhoFonteRotulos = 9.8, 
+                   double tamanhoFonteInstrucaoImpressao = 9)
 ```      
  O tamanho da fonte será renderizada em "px" do css. 
 ``` css
@@ -21,4 +21,21 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **V
         boletoBancario.Boleto.Valida();
 
         boletoBancario.AjustaTamanhoFonte(12, tamanhoFonteInstrucaoImpressao:14);
+```
+
+## Ajustar a separação entre símbolo e o valor da moeda
+
+Para ajustar o tamanho da fonte utilize o método **AjustaSeparacaoSimboloMoeda** da classe **BoletoBancário**.
+
+``` C#   
+public void AjustaSeparacaoSimboloMoeda()
+``` 
+
+O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do médoto **Valida**.
+
+``` C#
+        boletoBancario.Boleto = b;
+        boletoBancario.Boleto.Valida();
+
+        boletoBancario.AjustaSeparacaoSimboloMoeda();
 ```
