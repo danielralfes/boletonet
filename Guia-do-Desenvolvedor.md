@@ -44,7 +44,7 @@ O método **AjustaTamanhoFonte** pode ser chamado antes ou depois do método **V
         boletoBancario.RemoveSimboloMoedaValorDocumento = true;
 ```
 
-[[https://github.com/BoletoNet/boletonet/blob/master/wiki/img/9207ef64-8de8-4fef-99fd-ef5ca3774316.png|alt=Remove o símbolo da moeda do Valor do Documento]]
+[[https://github.com/BoletoNet/boletonet/blob/SFC/wiki/img/9207ef64-8de8-4fef-99fd-ef5ca3774316.png|alt=Remove o símbolo da moeda do Valor do Documento]]
 
 ## Mostrar o endereço do Cedente
 
