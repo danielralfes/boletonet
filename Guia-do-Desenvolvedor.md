@@ -1,7 +1,7 @@
 # Guia do Desenvolvedor
 
 - [[Ajustar o tamanho da fonte do boleto bancário|Guia-do-Desenvolvedor#ajustar-o-tamanho-da-fonte-do-boleto-banc%C3%A1rio]]
-- [[Remove o símbolo da moeda do Valor do Documento|Guia-do-Desenvolvedor#ajustar-a-separa%C3%A7%C3%A3o-entre-o-s%C3%ADmbolo-da-moeda-e-o-valor]]
+- [[Remove o símbolo da moeda do Valor do Documento|Guia-do-Desenvolvedor#remove-o-s%C3%ADmbolo-da-moeda-do-valor-do-documento]]
 - [[Mostrar o endereço do Cedente|Guia-do-Desenvolvedor#mostrar-o-endere%C3%A7o-do-cedente]]
 
 ## Ajustar o tamanho da fonte do boleto bancário.
