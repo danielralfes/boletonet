@@ -11,7 +11,8 @@ Para ajustar o tamanho da fonte utilize o método **AjustaTamanhoFonte** da clas
 ``` C#   
 AjustaTamanhoFonte(double tamanhoFonteTextos = 10, 
                    double tamanhoFonteRotulos = 9.8, 
-                   double tamanhoFonteInstrucaoImpressao = 9)
+                   double tamanhoFonteInstrucaoImpressao = 9,
+                   double tamanhoFonteInstrucoes = 10)
 ```      
  O tamanho da fonte será renderizada em "px" do css. 
 ``` css
