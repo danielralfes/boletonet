@@ -24,3 +24,5 @@
 ![](http://download-codeplex.sec.s-msft.com/Download?ProjectName=boletonet&DownloadId=34468)
 * Bansicredi <br>
 ![](http://download-codeplex.sec.s-msft.com/Download?ProjectName=boletonet&DownloadId=528045)
+* Banco do Nordeste <br>
+![](http://download-codeplex.sec.s-msft.com/Download/SourceControlFileDownload.ashx?ProjectName=boletonet&changeSetId=90434&itemId=1939153)
